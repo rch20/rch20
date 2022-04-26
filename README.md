@@ -1,5 +1,5 @@
-[![MasterHead](https://64.media.tumblr.com/4332d7a75db4609c08b860c71c835bf1/tumblr_oqubgs04t21sd5neeo1_1280.gifv)](https://github.com/rch20)
-
+<!-- [![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Discord-Banner-for-Girls.gif)](https://github.com/rch20)
+ -->
 <h1 align="center">Hello 👋, I'm Reem</h1>
 <h3 align="center">A Creative Developer all the way from Lebanon</h3>
 
