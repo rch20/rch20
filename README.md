@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=EF90B0&center=true&vCenter=true&lines=I'm+a+Creative+Developer;I'm+a+Certified+Ethical+Hacker;A+Filter+Creator;A+Software+Developer)](https://git.io/typing-svg)
 
 
-<h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" style="max-width:100%" width="25px"/>   About me:</h3>
+<h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" style="max-width:100%" width="25px"/>  About me:</h3>
 <img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" width="350px" align="right" />
 
-- 👨‍💻 Check out my filters on Instagram [https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/](https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/)
+- 👨‍💻 Check out my [filters](https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/) on Instagram 
 
 - 💬 Ask me about **Augmented Reality**
 
