@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=EF90B0&center=true&vCenter=true&lines=I'm+a+Creative+Developer;I'm+a+Certified+Ethical+Hacker;A+Filter+Creator;A+Software+Developer)](https://git.io/typing-svg)
 
 
-<h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" style="max-width:100%" width="25px"/>  About me:</h3>
+<h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" style="max-width:100%" width="25px"/>   About me:</h3>
 <img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" width="350px" align="right" />
 
 - 👨‍💻 Check out my [filters](https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/) on Instagram 
@@ -26,8 +26,8 @@
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/message.gif" style="max-width:100%" align="center" width="25px"/> Connect with me:</h3>
 
 <div display= "inline-block">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/reemshalak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/reemshalak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 
 </div>
