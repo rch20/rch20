@@ -8,7 +8,8 @@
 
 
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" style="max-width:100%" width="25px"/>   About me:</h3>
-<div display= "inline-block"><div align="right"><img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" align="right" /> </div>
+
+<img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" align="right"  width="350px"/> 
 
 - 👨‍💻 Check out my [filters](https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/) on Instagram 
 
@@ -16,7 +17,6 @@
 
 - 📫 DM for collaborations **reemshalak22@hotmail.com**
 
-</div>
 
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/floatinglap.gif" style="max-width:100%" align="center" width="75px"/> Languages and Tools:</h3>
 
