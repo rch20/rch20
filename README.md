@@ -9,7 +9,7 @@
 
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" height="25px" width="25px"/>   About me:</h3>
 
-<img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" align="right"  height="200px" width="200px"/> 
+<img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" align="right"  height="250px" width="400px"/> 
 
 - 👨‍💻 Check out my [filters](https://www.facebook.com/sparkarhub/portfolios/ig/reemshalak/) on Instagram 
 
